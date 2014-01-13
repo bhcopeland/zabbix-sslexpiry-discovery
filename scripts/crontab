@@ -1,0 +1,2 @@
+0 0 * * * /bin/bash /etc/scripts/zabbix/sslcheck.sh domain.com port > /etc/scripts/zabbix/ssldays.json
+
