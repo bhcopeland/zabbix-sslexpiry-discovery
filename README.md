@@ -47,3 +47,5 @@ Ben Copeland 10/01/2014
 		- have to login into zabbix and click every SSL certifcate and "reenable" the unsupported item. Or delete and recreate the template on the host
 		- crontab runs at midnight
 		- Look into only writing file once the list is complete
+	- When SSL has over 1000days zabbix reports "kdays". 
+		- Patch to fix problem:  https://support.zabbix.com/browse/ZBX-5764
