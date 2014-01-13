@@ -48,4 +48,4 @@ Ben Copeland 10/01/2014
 		- crontab runs at midnight
 		- Look into only writing file once the list is complete
 	- When SSL has over 1000days zabbix reports "kdays". 
-		- Patch to fix problem:  https://support.zabbix.com/browse/ZBX-5764
+		- Patch to fix problem:  https://support.zabbix.com/browse/ZBXNEXT-768
